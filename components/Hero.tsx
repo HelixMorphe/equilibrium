@@ -9,8 +9,8 @@ const Hero = () => {
             Minimalism Meets Functionality
           </h2>
           <p className="text-brand-500">
-            Transform your design process with Equilibrium's modern, minimal,
-            and intuitive elements.
+            Transform your design process with Equilibrium&apos;s modern,
+            minimal, and intuitive elements.
           </p>
         </div>
         <div></div>
